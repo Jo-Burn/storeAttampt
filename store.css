@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+    color: white;
+}
+div {
+    position: absolute;
+    left: 41vw;
+    top: 20vh;
+}
+#output {
+    font-size: 25px;
+    position: absolute;
+    left: 5vw;
+}
